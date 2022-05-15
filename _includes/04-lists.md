@@ -1,5 +1,5 @@
-Family
-Dirt track racing
-Truck Pulls
-Concerts
-Beach
+- Family
+- Dirt track racing
+- Truck Pulls
+- Concerts
+- Beach
